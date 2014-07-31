@@ -1,0 +1,16 @@
+{
+  "name": "object-array-converter",
+  "description": "",
+  "version": "0.1.0",
+  "repository": {
+    "url": "git://github.com/sethvincent/object-array-converter.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^2.13.4"
+  }
+}
