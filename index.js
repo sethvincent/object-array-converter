@@ -17,7 +17,7 @@ exports.toObject = function (arr) {
     if (typeof obj === 'object' && obj.key && obj.value) {
       result[obj.key] = obj.value
     } else {
-      result[String(arr.indexOf(obj))] = obj
+      result[i] = obj
     }
   })
 
