@@ -1,7 +1,7 @@
 {
   "name": "object-array-converter",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "git://github.com/sethvincent/object-array-converter.git"
   },
